@@ -1,0 +1,43 @@
+{
+  "name": "CannabisCrazies #3",
+  "description": "a collection of nfts inspired by cannabis with animated bud head characters",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "5f5a1bb2f7db368e8bec7fa1e854838fd72c1a69",
+  "edition": 3,
+  "date": 1707039745263,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sandy brown"
+    },
+    {
+      "trait_type": "body",
+      "value": "white"
+    },
+    {
+      "trait_type": "outfit",
+      "value": "astronut"
+    },
+    {
+      "trait_type": "head",
+      "value": "green"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubble gum"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "normal"
+    },
+    {
+      "trait_type": "headwear",
+      "value": "cap"
+    },
+    {
+      "trait_type": "necklace",
+      "value": "silver"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
